@@ -74,15 +74,16 @@ Model graph:
 Calculation: 
 
 Open circuit characteristics
+![WhatsApp Image 2025-11-26 at 09 44 15](https://github.com/user-attachments/assets/0535b6bf-1f5c-4137-a9cf-f299d6b4d16c)
 
-![Uploading WhatsApp Image 2025-11-26 at 09.44.15.jpeg…]()
 
 
 
   
 Load Characteristics:
+![WhatsApp Image 2025-11-26 at 09 44 15 (1)](https://github.com/user-attachments/assets/f51774e2-3df4-47e6-984b-67fe23263055)
 
-![Uploading WhatsApp Image 2025-11-26 at 09.44.15.jpeg…]()
+
 
  
 Result:
